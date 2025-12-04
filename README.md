@@ -1,6 +1,6 @@
 # credit-card-fraud-detection-by-kevin-marakana
 
-## **data set link** 
+## **Data set link** 
 
 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
